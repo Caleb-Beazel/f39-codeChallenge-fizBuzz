@@ -11,3 +11,4 @@ for(i=num; i <= 50; i++){
         console.log(i)
     }
 }
+
